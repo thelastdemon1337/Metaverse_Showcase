@@ -7,7 +7,9 @@
     "https://photographylife.com/wp-content/uploads/2018/11/Moeraki-Boulders-New-Zealand.jpg",
     "https://mirrorlesscomparison.com/wp-content/uploads/2019/10/Sony-a7riv-image-sample-2.jpg"  
     ],
-    "texts" : {
-        "shearing" : "Shearing is done using traditional shearers and is exclusively performed by the Kuruma community. Earlier the shearer was paid in the form of a gongadi. This system has changed over the years and now they are paid money. The sheared wool is taken by the shearer to sell, or the shepherd keeps it to be sold to another trader."
-    }
+    "texts" : [
+        "Welcome to Video 1",
+        "Here is Video 2",
+        "Enjoy Video 3"         
+    ]
 }
